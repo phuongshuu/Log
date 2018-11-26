@@ -1,0 +1,59 @@
+Đây là kho lưu trữ những tài liệu mà tôi tích cóp trên mạng cùng những thứ cá nhân của mình . hihi ( 26-11-2018)
+
+#1 
+Cuối tuần rồi, chém gió tí nhé.
+Chào các bạn. 
+Mình mới join group, đọc hết từ đầu đến cuối thấy phần lớn đều là newbie trong ngôn ngữ Python. Một số bạn đã share giáo trình 
+(cả Anh lẫn Việt), share cách học, khóa học....Giống như TOEIC, IELTS vậy, Python nhìn tưởng dễ dàng trong việc tự học nhưng thực ra
+chẳng dễ chút nào với những người chưa có kinh nghiệm. 
+Một số bạn đã có kinh nghiệm lập trình C#, Java,… khi tự học Python chắc hẳn sẽ thốt lên “ôi dễ quá”, “dễ thế này ai chả học được”,…. 
+Chắc chắn các bạn chỉ đọc lướt và tưởng rằng mình đã hiểu hết toàn bộ về Python. 
+Bạn không tin đúng không ? Vậy tôi hỏi các bạn, giá trị False (kiểu bool) trong Python có thể lấy ra bằng những cách nào ? 
+(Câu lệnh if False: có thể biểu diễn bằng cách nào khác ? )
+Ngoài ra Python có những thứ mà các ngôn ngữ lập trình khác không có, các "pythonista" gọi là "đặc sản" như list comprehension,
+Python slice,...Nếu chưa biết thưởng thức các “đặc sản” này thì đừng có bảo là đã hiểu Python.
+Là một Dev, các bạn có lười không ? lười phải nhớ nhiều keyword, lười gõ nhiều code ấy, nếu bạn “lười” thì Python chính là
+sự lựa chọn của bạn. Python có cực kỳ ít các keyword (3x), code của Python không dài dòng như các ngôn ngữ khác vì bản thân ngôn ngữ
+và bộ thông dịch đã hỗ trỡ rất nhiều cho bạn. Quan trọng là bạn phải tư duy như một pythonista để bắt interpreter làm việc thay mình . 
+Có thể các bạn sẽ cười tôi, khi đọc dòng này, vậy hãy đọc bài toán này https://projecteuler.net/problem=1
+(tính tổng các số chia hết cho 3 hoặc 5 nhỏ hơn 1000) và giải nó bằng Java, C#, C/C++ xem tốn bao nhiêu dòng. Nếu dùng Python, 
+chỉ tốn 1 dòng (tính luôn cả lệnh in ra màn hình).
+Tôi đã từng review code python của các bạn từng học C#, Java rồi nhảy sang Python, những dòng code diễn giải dài dòng,
+cái cách định nghĩa tên biến, hàm, lớp lộn xộn linh tinh người thì theo Camel, Upcase, lowcase...
+hoặc theo conversation của công ty mà họ đã từng làm. Với Python, có hẳn một chuẩn clean code toàn cầu cho các bạn làm theo luôn
+(PEP8 cho bạn nào quan tâm). 
+Trước đây, tôi đã từng tự học và vỗ ngực khoe hiểu và nắm được python cho đến khi gặp phải cao thủ thực sự. Sau khi “sấp mặt”, 
+tôi quyết tâm học lại Python một lần nữa, không phải qua những tutorial dịch word-by-word ở những trang chỉ chuyên “hút” view để 
+chạy quảng cáo, chứa coins-hive hay từ những “ông thầy” Youtube đọc Python là “pi thông”, Django là “Đờ răng gô” nữa.
+Tôi học từ tài liệu chính thống https://docs.python.org/3/tutorial/index.html
+Sau khi học và cày khoảng ~ 200 bài tập, làm chục bài cài đặt thuật toán trên ProjectEuler, tiếp tục ôn luyện trên hackerrank. 
+Lúc này tôi mới thực sự tự tin về các kiến thức cơ bản của Python. Nhìn lại…hóa ra nó dễ thật.
+Tôi bắt đầu dạy những fresher, intern của công ty, sau nhiều lần làm gia sư cấp tốc (theo yêu cầu tinh giảm hết cỡ của boss) 
+về lý thuyết cơ bản có thể gói gọn trong 6 buổi (chỉ học những thứ sẽ ứng dụng) theo như bên dưới.
+1. Hello Python, setup interpreter & IDE , Basic Data Types (number, boolean), Operators (+ - */), Math lib
+2. String, string lib, Binary, Unicode
+3. List (basic), Naming, Binding, Id, control flow (if/else,for while )
+4. Collections: Tuple, Dict, Set; List compreshension
+5. Date & time, Errors & Exception, Method/function; File, Json
+6. Python and DB (SQLite demo), XML, Virtualenv, Class/Module
+Tất nhiên là học phải đi đôi với “hành”, với số lượng bài tập mà tôi đã tích lũy được, nếu chịu khó làm bài tập chẳng có lý do 
+gì mà không nắm được hết phần cơ bản Python sau 3-4 tuần.
+Sau khi học xong phần cơ bản, các bạn sẽ tự mình rẽ nhánh sang các vấn đề khác (phần này mới là phần dành cho đi làm và kiếm $)
+- Crawling/Scraping/Bot
+- Web dev: Flask, Django,…
+- Data science: numpy, panda, matplotlib,…
+- AI, ML,..
+Quay trở lại vấn đề học, nếu bạn có thể tự học được hãy dựa vào https://docs.python.org/3/tutorial/index.html và các đầu
+mục mà tôi đã đưa ra ở trên. Học đến đâu, lên hackerrank để ôn luyện tiếp đến đấy.
+Nếu bạn không tự học được, hãy inbox tôi (tôi ở Hà Nội), tôi nhận gia sư cho các bạn, học phí 1 buổi chỉ bằng tiền các bạn 
+gia sư cho học sinh khối phổ thông, thời gian linh động theo các bạn (tuần 2,3 buổi hoặc đủ tự tin thì quất cả 6 buổi/tuần luôn), 
+dậy tận nhà (nếu ra Coo-work, vui lòng tự thanh toán tiền chỗ ngồi), các bạn cũng có thể rủ thêm bạn để giảm tiền 
+(không dạy quá 3 bạn/lớp – để đảm bảo chất lượng). 
+Để các bạn yên tâm, cuối buổi thứ 2 tôi mới nhận $ buổi 1+2, các buổi sau, học xong buổi nào nhận tiền buổi ấy.
+Nếu các bạn không hài lòng với chất lượng bài học có thể cancel bất cứ lúc nào. 
+Hết 6 buổi lý thuyết basic, có thể chọn 1 trong các chủ đề nâng cao, tôi sẽ dạy tiếp hoặc sẽ hướng dẫn các bạn cách
+tự học hiệu quả. Học xong , tôi vẫn hỗ trợ các bạn online để chữa bài tập cho các bạn (thường là 1 tháng mới ngốn hết được chỗ bài tập). 
+À quên, tôi là nam giới, ngoài 30 tuổi và đã có gia đình ổn định. Đi dạy chỉ là sở thích cá nhân của tôi.
+Nếu bạn quan tâm, inbox tôi, chúng ta nói chuyện tiếp, nếu không, coi như tôi chia sẻ trải nghiệm học python của bản thân. 
+Đừng ném đá tôi nhé. Để thi thoảng tôi còn lên group nhá hàng bài tập=)) 
+Cảm ơn các bạn đã đọc đến tận dòng này
